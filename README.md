@@ -6,9 +6,11 @@ Read the tutorial
 Requirements
 Node and npm
 Installation
-
+<br/>
 Install dependencies: npm install
+<br/>
 Start the server: npm run dev app.js
 
+<br/>
 Testing the API
 Test your API using Postman
